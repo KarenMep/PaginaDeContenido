@@ -1,7 +1,13 @@
 import React from 'react'
+import '../javapath.css'
+
 
 export const OrientacionObjetos = () => {
   return (
-    <div>OrientacionObjetos</div>
+    <>
+      <button className="button">
+      Orientacion Objetos
+      </button>
+    </>
   )
 }

@@ -1,0 +1,47 @@
+.button{
+    padding: 10px;
+    margin: 6px;
+    border-radius: 10px;
+    background-color: #F06292;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+}
+
+.button:hover{
+    background-color: #ffaac6;
+}
+
+.titulo{
+    background-color: #F06292;
+    margin: auto;
+}
+
+.contenedor{
+    /* background-color: tomato; */
+    width: 75%;
+    margin: auto;
+}
+
+#metodologias_menu{
+    background-color: rgb(104, 21, 65);
+    width: 75%;
+    margin: auto;
+}
+
+.button2{
+    background-color: darkgoldenrod;
+    font-size: 15px;
+    width: 30%;
+    padding: 6px;
+    margin: 5px;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button2:hover{
+    background-color: rgb(235, 203, 120);
+}
